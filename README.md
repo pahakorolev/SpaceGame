@@ -9,12 +9,9 @@ Project code ported to the latest release at the moment of Cocos2d-X version 3.0
 
 Summary:
 
-    Replased rejected options 
-  
-    Replased all deprecated calls
-  
-    Project created with new project structure for all platforms
-  
-    Project created by cocos console command
+* Replased rejected options
+* Replased all deprecated calls
+* Project created with new project structure for all platforms
+* Project created by cocos console command
   
 Now tested only win32 and android version.
